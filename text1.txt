@@ -10,3 +10,5 @@ FclCmd_t* pFclCmd = (FclCmd_t *)pData;
     uint32_t auxDescLen = 0;//AUXDATASIZE_OF_DW * pFclCmd->mediaCtx.auxEntryCnt;
     uint32_t auxFreeLen 
 乘风破浪会有时--李白《济沧海》
+this is master B for test 
+pull request operation
